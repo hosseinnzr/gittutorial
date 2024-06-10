@@ -425,6 +425,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farhadmpr :smirk: ](http://farhadm.ir)
 - [Pouya Rahebi](https://github.com/Pouyar69)
 - [Farzad](https://github.com/f-a-r-z-a-d)
+- [hosseinnzr](https://github.com/hosseinnzr)
 - [Mohsen Haeri](https://github.com/tabib2m)
 - [orphic 🚬️🚬️ ](https://github.com/orphick)
 - [amir :kissing_heart:](https://github.com/amirdy)
